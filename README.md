@@ -16,9 +16,11 @@ I thrive on tackling complex problems and crafting elegant solutions. My journey
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/a3768491da684c76925f60017234806f)
 
 ### Skill Sets
-- **Programming:** Java, JavaScript
-- **Databases:** IBM DB2 Cloud
-- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
+- **Tools:** 
+  - [![Lucidchart Logo](https://avatars.slack-edge.com/2022-07-26/3865608556737_8f4ae4a98b36ab6912b3_512.png)](https://www.lucidchart.com/) Lucidchart
+  - [![Jaspersoft Studio Logo](https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2019/10/jaspersoft-tibco-logo-social.jpg?fit=400%2C400&ssl=1)](https://www.jaspersoft.com/) Jaspersoft Studio
+  - [![Eclipse Logo](https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-svg-vector.svg)](https://www.eclipse.org/) Eclipse
+  - [![HTML Logo](https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png)](https://developer.mozilla.org/en-US/docs/Web/HTML) HTML
 
 ### Connect with Me
 - **LinkedIn:** [LinkedIn Profile](LinkedIn_Profile_Link)
