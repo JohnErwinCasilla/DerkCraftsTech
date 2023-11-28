@@ -16,7 +16,7 @@ I thrive on tackling complex problems and crafting elegant solutions. My journey
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/a3768491da684c76925f60017234806f)
 
 ### Skill Sets
-- **Programming:** Java, JavaScript
+- ![Java-Logo](https://github.com/JohnErwinCasilla/DerkCraftsTech/assets/152262067/41258964-c2e5-4d2d-b503-49864be11c12) JavaScript
 - **Databases:** [![IBM Logo](link_to_lucidchart_logo_image)](https://login.ibm.com/authsvc/mtfim/sps/authsvc?PolicyId=urn:ibm:security:authentication:asf:basicldapuser) [![DB2 Logo](link_to_lucidchart_logo_image)](https://login.ibm.com/authsvc/mtfim/sps/authsvc?PolicyId=urn:ibm:security:authentication:asf:basicldapuser)
 - **Tools:**  [![Lucidchart Logo](link_to_lucidchart_logo_image)](https://www.lucidchart.com/) [![Jaspersoft Studio Logo](link_to_jaspersoft_logo_image)](https://www.jaspersoft.com/) [![Eclipse Logo](link_to_eclipse_logo_image)](https://www.eclipse.org/) [![HTML Logo](link_to_html_logo_image)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
