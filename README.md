@@ -1,7 +1,6 @@
-# Hi there! 😁 I'm John Erwin Casilla
-
-## About Me 👨‍💻
+# Hi there! 😁
 Greetings! I'm John Erwin Casilla, a dedicated enthusiast of the digital realm and a passionate coder. I find myself deeply immersed in the world of programming, where lines of code are my tools for crafting innovative solutions and bringing ideas to life.
+## About Me 👨‍💻
 I thrive on tackling complex problems and crafting elegant solutions. My journey in tech started when I pursued the BS Information Technology program.
 
 ### Education 📚
