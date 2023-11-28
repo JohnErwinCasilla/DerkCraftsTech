@@ -16,9 +16,7 @@ I thrive on tackling complex problems and crafting elegant solutions. My journey
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/a3768491da684c76925f60017234806f)
 
 ### Skill Sets
-![Untitled design](https://github.com/JohnErwinCasilla/DerkCraftsTech/assets/152262067/9335b479-7479-4e49-bd31-d79190d9c56f) ![JS](https://github.com/JohnErwinCasilla/DerkCraftsTech/assets/152262067/fe19bb27-f9d1-4e1b-8b0e-f9fea72c34a4) 
-- **Databases:** [![IBM Logo](link_to_lucidchart_logo_image)](https://login.ibm.com/authsvc/mtfim/sps/authsvc?PolicyId=urn:ibm:security:authentication:asf:basicldapuser) [![DB2 Logo](link_to_lucidchart_logo_image)](https://login.ibm.com/authsvc/mtfim/sps/authsvc?PolicyId=urn:ibm:security:authentication:asf:basicldapuser)
-- **Tools:**  [![Lucidchart Logo](link_to_lucidchart_logo_image)](https://www.lucidchart.com/) [![Jaspersoft Studio Logo](link_to_jaspersoft_logo_image)](https://www.jaspersoft.com/) [![Eclipse Logo](link_to_eclipse_logo_image)](https://www.eclipse.org/) [![HTML Logo](link_to_html_logo_image)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+![Untitled design](https://github.com/JohnErwinCasilla/DerkCraftsTech/assets/152262067/9335b479-7479-4e49-bd31-d79190d9c56f) ![JS](https://github.com/JohnErwinCasilla/DerkCraftsTech/assets/152262067/fe19bb27-f9d1-4e1b-8b0e-f9fea72c34a4) ![IBM]    (https://github.com/JohnErwinCasilla/DerkCraftsTech/assets/152262067/4fdb1b09-36d4-404a-8f4f-5b4f64f84962) ![DB2](https://github.com/JohnErwinCasilla/DerkCraftsTech/assets/152262067/ec8cfc72-2bfe-4f84-8fc7-ed9c4aecb0c0) ![LUCID](https://github.com/JohnErwinCasilla/DerkCraftsTech/assets/152262067/eba01deb-f1a1-4245-a5ca-bf66416eb1e5) ![JASPER](https://github.com/JohnErwinCasilla/DerkCraftsTech/assets/152262067/dcc600f3-5d25-4757-99d8-18652529e6b8) ![JASPER (1)](https://github.com/JohnErwinCasilla/DerkCraftsTech/assets/152262067/4d624072-b22d-47f7-be16-680d83f2d069) ![HTML](https://github.com/JohnErwinCasilla/DerkCraftsTech/assets/152262067/40155f7a-b70f-4a14-9b75-ae27493a8edd)
 
 ### Connect with Me
 - **LinkedIn:** [LinkedIn Profile](LinkedIn_Profile_Link)
