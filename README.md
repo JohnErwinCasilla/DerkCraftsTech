@@ -17,8 +17,8 @@ I thrive on tackling complex problems and crafting elegant solutions. My journey
 
 ### Skill Sets
 - **Programming:** Java, JavaScript
-- **Databases:** IBM DB2 Cloud
-- **Tools:** - [![Lucidchart Logo](link_to_lucidchart_logo_image)](https://www.lucidchart.com/) Lucidchart - [![Jaspersoft Studio Logo](link_to_jaspersoft_logo_image)](https://www.jaspersoft.com/) Jaspersoft Studio - [![Eclipse Logo](link_to_eclipse_logo_image)](https://www.eclipse.org/) Eclipse - [![HTML Logo](link_to_html_logo_image)](https://developer.mozilla.org/en-US/docs/Web/HTML) HTML
+- **Databases:** [![IBM Logo](link_to_lucidchart_logo_image)](https://login.ibm.com/authsvc/mtfim/sps/authsvc?PolicyId=urn:ibm:security:authentication:asf:basicldapuser) [![DB2 Logo](link_to_lucidchart_logo_image)](https://login.ibm.com/authsvc/mtfim/sps/authsvc?PolicyId=urn:ibm:security:authentication:asf:basicldapuser)
+- **Tools:**  [![Lucidchart Logo](link_to_lucidchart_logo_image)](https://www.lucidchart.com/) [![Jaspersoft Studio Logo](link_to_jaspersoft_logo_image)](https://www.jaspersoft.com/) [![Eclipse Logo](link_to_eclipse_logo_image)](https://www.eclipse.org/) [![HTML Logo](link_to_html_logo_image)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 ### Connect with Me
 - **LinkedIn:** [LinkedIn Profile](LinkedIn_Profile_Link)
