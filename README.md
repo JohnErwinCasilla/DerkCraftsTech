@@ -16,7 +16,7 @@ I thrive on tackling complex problems and crafting elegant solutions. My journey
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/a3768491da684c76925f60017234806f)
 
 ### Skill Sets
-![Untitled design](https://github.com/JohnErwinCasilla/DerkCraftsTech/assets/152262067/9335b479-7479-4e49-bd31-d79190d9c56f) JavaScript
+![Untitled design](https://github.com/JohnErwinCasilla/DerkCraftsTech/assets/152262067/9335b479-7479-4e49-bd31-d79190d9c56f) ![JS](https://github.com/JohnErwinCasilla/DerkCraftsTech/assets/152262067/fe19bb27-f9d1-4e1b-8b0e-f9fea72c34a4) 
 - **Databases:** [![IBM Logo](link_to_lucidchart_logo_image)](https://login.ibm.com/authsvc/mtfim/sps/authsvc?PolicyId=urn:ibm:security:authentication:asf:basicldapuser) [![DB2 Logo](link_to_lucidchart_logo_image)](https://login.ibm.com/authsvc/mtfim/sps/authsvc?PolicyId=urn:ibm:security:authentication:asf:basicldapuser)
 - **Tools:**  [![Lucidchart Logo](link_to_lucidchart_logo_image)](https://www.lucidchart.com/) [![Jaspersoft Studio Logo](link_to_jaspersoft_logo_image)](https://www.jaspersoft.com/) [![Eclipse Logo](link_to_eclipse_logo_image)](https://www.eclipse.org/) [![HTML Logo](link_to_html_logo_image)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
